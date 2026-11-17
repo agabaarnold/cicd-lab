@@ -6,7 +6,7 @@ The starter includes a home page, a health endpoint, and a passing health endpoi
 
 ## Requirements
 
-- Node.js 24 and npm
+- Node.js 26 and npm
 - Git
 - GitHub and Render accounts for the deployment sections
 
